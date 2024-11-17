@@ -1,0 +1,1 @@
+Spectral GAN trained on CIFAR-10
